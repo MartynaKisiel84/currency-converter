@@ -14,7 +14,7 @@ This project contains simple currency caculator allowing to convert Polish zloty
 3. Click calculate named "Przelicz".
 4. In the empty row appears converter amount.
 
-Used Technologies:
+#### Used Technologies:
 - Html
 - CSS
 - JavaScript
