@@ -4,6 +4,8 @@
 
 https://martynakisiel84.github.io/currency-converter/
 
+![currency converter](https://github.com/MartynaKisiel84/currency-converter/blob/main/images/share.png?raw=true)
+
 ### Description of my project
 
 This project includes a simple currency caculator that allows you to convert Polish zloty to other currencies such as USD, GBP, EUR. The exchange rate is valid from 1st of March 2023.
