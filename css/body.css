@@ -7,4 +7,12 @@ html {
 }
 .body {
     font-family: 'Lato', sans-serif;
+    width: 300px;
+    height: 300px;
+    resize: both;
+    overflow: auto;
+    background-image: url("../images/share2.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }

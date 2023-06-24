@@ -3,5 +3,8 @@
     height: 300px;
     resize: both;
     overflow: auto;
-    background-image: url("/images/share2.png");
+    background-image: url("../images/share2.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
