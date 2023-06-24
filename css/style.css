@@ -6,13 +6,17 @@ html {
     box-sizing: inherit;
 }
 .body {
+    display- flex;
     font-family: 'Lato', sans-serif;
-    width: 300px;
-    height: 300px;
-    resize: both;
-    overflow: auto;
+    font-size: 17px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.5px;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
     background-image: url("../images/share2.png");
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
 }
