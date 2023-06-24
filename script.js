@@ -4,7 +4,7 @@
         const rateGBP = 5.2788;
         const rateEUR = 4.6809;
 
-        switch (currency) {
+        switch (amount, currency) {
             case "USD":
                 return amount / rateUSD;
 
